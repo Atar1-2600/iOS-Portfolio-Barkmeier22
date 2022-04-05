@@ -8,9 +8,10 @@ Hello, my name is Lucas Barkmeier, this is a portfolio for the projects/apps I h
 ## [Lost & Found](https://github.com/EPHS-iOS/Minnesota-School-Lost-Found) 
 
 
-![Simulator Screen Shot - iPhone 12 Pro - 2022-04-05 at 14 20 46](https://user-images.githubusercontent.com/70666783/161834001-bed9149d-34c8-4607-8cd1-ad0022a4a5cd.png)
-![Simulator Screen Shot - iPhone 12 Pro - 2022-04-05 at 14 19 08](https://user-images.githubusercontent.com/70666783/161834023-fe1b2579-66a8-44bb-9899-ce4a267e040c.png)
-![Simulator Screen Shot - iPhone 12 Pro - 2022-04-05 at 14 17 40](https://user-images.githubusercontent.com/70666783/161834038-0d49d43c-0a8e-495f-8301-becedcee4bde.png)
+![Simulator Screen Shot - iPhone 12 Pro - 2022-04-05 at 14 20 46](https://user-images.githubusercontent.com/70666783/161834221-1ce54291-c546-4e85-b3e7-651243689420.png)
+![Simulator Screen Shot - iPhone 12 Pro - 2022-04-05 at 14 19 08](https://user-images.githubusercontent.com/70666783/161834223-d606d248-8d06-4ae7-b43c-1a9d6155ff6a.png)
+![Simulator Screen Shot - iPhone 12 Pro - 2022-04-05 at 14 17 40](https://user-images.githubusercontent.com/70666783/161834225-20cf8da3-a514-49f9-abba-1cc9c423625d.png)
+
 
 
 # Programming Experience
