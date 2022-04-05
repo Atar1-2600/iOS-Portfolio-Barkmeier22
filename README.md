@@ -6,7 +6,7 @@ Hello, my name is Lucas Barkmeier, this is a portfolio for the projects/apps I h
 2022
 
 ## Block Jump
-
+This is an app I am curently working on my self. This was the first game I started making in xcode, and is a flappy bird like game where you bounce back and forth between a wall. While bouncing you have to dodge obsticals in the air and on the walls.
 
 ## [Lost & Found](https://github.com/EPHS-iOS/Minnesota-School-Lost-Found) 
 
