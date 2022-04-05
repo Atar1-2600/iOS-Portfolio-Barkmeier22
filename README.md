@@ -4,7 +4,7 @@ Hello, my name is Lucas Barkmeier, this is a portfolio for the projects/apps I h
 # Apps and Projects
 2022
 
-## [Lost & Found] (https://github.com/EPHS-iOS/Minnesota-School-Lost-Found) 
+## [Lost & Found](https://github.com/EPHS-iOS/Minnesota-School-Lost-Found) 
 
 # Programming Experience
 MIT App Inventor (started in 2019)
