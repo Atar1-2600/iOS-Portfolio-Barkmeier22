@@ -10,9 +10,7 @@ This is an app I am curently working on my self. This was the first game I start
 
 ## [Lost & Found](https://github.com/EPHS-iOS/Minnesota-School-Lost-Found) 
 
-* The lost and found at many school including my own is stock full, students wil may look for hours and never find if the item is even there. The purpose of this app is to have staff take pictures of items in the lost and found so students can see what is in there without the pain of looking.
-* For weeks, my group and I have been working on the functionality of the app and designing the user interface. I have mainly been working on the login page, I believe that this will keep other schools for using the wrong schools lost and found.
-* Currently, we are implementing iCloud to store the data entries and working on the filter button.
+The lost and found at many school including my own is stock full, students wil may look for hours and never find if the item is even there. The purpose of this app is to have staff take pictures of items in the lost and found so students can see what is in there without the pain of looking. For weeks, my group and I have been working on the functionality of the app and designing the user interface. I have mainly been working on the login page, I believe that this will keep other schools for using the wrong schools lost and found. Currently working on iCloud to store the data entries and working on the filter button.
 
 ![161331092-fc0eb7d8-56a9-4e85-bd3e-79cb976430e9](https://user-images.githubusercontent.com/70666783/162022794-23f1b3e1-af6e-4283-956f-eb0ae03ec107.png)
 
