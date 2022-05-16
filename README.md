@@ -7,6 +7,7 @@ Hello, my name is Lucas Barkmeier, this is a portfolio for the projects/apps I h
 
 ## [Frame Jumper](https://github.com/EPHS-iOS/Frame-Jumper)
 This is an app I am curently working on my self. This was the first game I started making in xcode, and is a flappy bird like game where you bounce back and forth between a wall. While bouncing you have to dodge obsticals on the walls, each time you hit the wall without hitting a spike you gain a point. I mostly made this game as something to play while waiting in a line or a doctor.
+![Screen Shot 2022-05-16 at 2 39 48 PM](https://user-images.githubusercontent.com/70666783/168669426-6d43c41d-f5eb-463b-bb7d-4c43f0cd6d1c.png)
 
 ## [Lost & Found](https://github.com/EPHS-iOS/Minnesota-School-Lost-Found) 
 
