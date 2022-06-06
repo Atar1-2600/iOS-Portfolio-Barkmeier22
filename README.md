@@ -15,7 +15,7 @@ The lost and found in my high school is filled with items; students find them se
 
 This was the main project I worked on throughout iOS App Development. I mainly worked on the Looks and the mechanics of the login page, I also created the logo using sketch. From this project, I learned how to use animations within an app and different pieces of user interface that I can use in the future
 
-![171718472-f83d86c![171718928-78b5e85f-ce89-41db-ba4f-9d5d3f5509e1](https://user-images.githubusercontent.com/70666783/172085290-6e58f1b9-b850-42e9-a12c-1276f302dd85.png)
+![171718928-78b5e85f-ce89-41db-ba4f-9d5d3f5509e1](https://user-images.githubusercontent.com/70666783/172085290-6e58f1b9-b850-42e9-a12c-1276f302dd85.png)
 ![171718928-78b5e85f-ce89-41db-ba4f-9d5d3f5509e1](https://user-images.githubusercontent.com/70666783/172085340-6a749126-238c-4fae-bb00-08ddd12f35a1.png)
 ![171719395-32d9a0f8-4f6b-4f6f-8c29-3dede289c844](https://user-images.githubusercontent.com/70666783/172085292-87cb48d2-f32b-4852-b149-f4831693636f.png)
 ![171719407-e70c3343-97b3-4f7f-be96-ed6ef2f86504](https://user-images.githubusercontent.com/70666783/172085301-93c4af38-4563-4c27-a9b4-99bfdc3623f1.png)
