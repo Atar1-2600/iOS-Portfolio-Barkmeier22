@@ -1,15 +1,15 @@
 # iOS Portfolio
 Hello, my name is Lucas Barkmeier, this is a portfolio for the projects/apps I have made throughout the years. My first exposure to coding was in 9th grade in my intro to technology where we used block coding on a website called [CodeCombat](https://codecombat.com/play/dungeon). I would say My first time making things with code was in 10th grade, in my Computer Science Principles class where we made games with MIT App Inventor, and later we all voted on best app and I won first place bragging rights. In 11th Grade I was in Java and Cyber Security Class where I learned coding in Python and Java. In 12th grade, I took IOS Development and learned swift in Xcode. So far, I have made 1 working app for fun, and currently working on another app with some classmates.
 
-## Apps and Projects
+# Apps and Projects
 
 2022
 
-# [Frame Jumper](https://github.com/EPHS-iOS/Frame-Jumper)
+## [Frame Jumper](https://github.com/EPHS-iOS/Frame-Jumper)
 This is an app I am curently working on my self. This was the first game I started making in xcode, and is a flappy bird like game where you bounce back and forth between a wall. While bouncing you have to dodge obsticals on the walls, each time you hit the wall without hitting a spike you gain a point. I mostly made this game as something to play while waiting in a line or a doctor.
 ![Screen Shot 2022-05-16 at 2 39 48 PM](https://user-images.githubusercontent.com/70666783/168669426-6d43c41d-f5eb-463b-bb7d-4c43f0cd6d1c.png)
 
-# [Lost & Found](https://github.com/EPHS-iOS/Minnesota-School-Lost-Found) 
+## [Lost & Found](https://github.com/EPHS-iOS/Minnesota-School-Lost-Found) 
 
 The lost and found in my high school is filled with items; students find them selfs spending hours looking through piles of stuff and still come out empty handed. The purpose of the Missing Stuff App app is to create a place where staff members can take pictures of items in the lost and found so students can easily see if their item is there or not without digging through piles of items.
 
@@ -21,7 +21,7 @@ This was the main project I worked on throughout iOS App Development. I mainly w
 ![171719407-e70c3343-97b3-4f7f-be96-ed6ef2f86504](https://user-images.githubusercontent.com/70666783/172085301-93c4af38-4563-4c27-a9b4-99bfdc3623f1.png)
 ![171719418-da63260f-9b01-413d-9906-1c050dcc298a](https://user-images.githubusercontent.com/70666783/172085310-c98a1fbb-a3fd-4f0e-9cd2-effffc085225.png)
 
-
+### [Download on the App Store](https://apps.apple.com/us/app/missing-stuff/id1617140249)
 
 # Programming Experience
 MIT App Inventor (started in 2019)
