@@ -23,6 +23,13 @@ This was the main project I worked on throughout iOS App Development. I mainly w
 
 ### [Download on the App Store](https://apps.apple.com/us/app/missing-stuff/id1617140249)
 
+## Trivia Mash
+
+This is a great app for testing your knowledge in all things, currently there is only video game related questions. I am currently working on adding more topics for the app such as science and TV Shows.
+
+![Screen Shot 2022-06-06 at 1 54 43 PM](https://user-images.githubusercontent.com/70666783/172228272-1b16c87a-8246-4457-baa2-8d1ae1f03128.png)
+![Screen Shot 2022-06-06 at 1 55 07 PM](https://user-images.githubusercontent.com/70666783/172228290-9a4bed14-b65a-458d-9ce5-792cdc2f5023.png)
+
 # Programming Experience
 MIT App Inventor (started in 2019)
 
