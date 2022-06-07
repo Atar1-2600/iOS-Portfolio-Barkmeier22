@@ -23,7 +23,7 @@ This was the main project I worked on throughout iOS App Development. I mainly w
 
 ### [Download on the App Store](https://apps.apple.com/us/app/missing-stuff/id1617140249)
 
-## Trivia Mash
+## [Trivia Mash](https://github.com/EPHS-iOS/Trivia-Mash)
 
 This is a great app for testing your knowledge in all things, currently there is only video game related questions. I am currently working on adding more topics for the app such as science and TV Shows.
 
